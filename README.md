@@ -49,4 +49,4 @@ Este projeto é apenas uma ferramenta para auxiliar na criação de planos de ne
 
 ## Contato:
 
-Em caso de dúvidas ou sugestões, entre em contato pelo e-mail [[endereço de e-mail removido]].
+Em caso de dúvidas ou sugestões, entre em contato pelo e-mail gu.ignacio.souza2013@gmail.com
